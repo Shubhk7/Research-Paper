@@ -1,0 +1,24 @@
+# .gitignore for Research Paper Repo
+
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Mac
+.DS_Store
+
+# Microsoft Word temp files
+~$*.docx
+~$*.doc
+*.tmp
+
+# LaTeX (if used)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Personal notes (keep local)
+notes/personal_*.md
